@@ -45,7 +45,7 @@ width: 80,
 whitespaceBreak: false
 }), 'cyan'))
 console.log(color(`╔═════════════════════════╗` ,'white'))
-console.log(color(`║ ` ,'white'), color(`✹ 𝚲𝐋⃖͢𝐂𝚫𝐓𝐑⃖͢͢𝚲𝐙 𝟐ྂ.⃪࿆𝟎࿆ྂ ✹`, 'gold'))
+console.log(color(`║ ` ,'white'), color(`✹ 𝚲𝐋⃖͢𝐂𝚫𝐓𝐑⃖͢͢𝚲z 𝟐ྂ.⃪࿆𝟎࿆ྂ ✹`, 'gold'))
 console.log(color(`╠═════════════════════════╩═════════════════════════╗`, 'white'))
 console.log(color(`║ `, 'white'), color(`[•]`, 'gold'), color(`Hola        : Usuario                        ║`, 'white'))
 console.log(color(`║ `, 'white'), color(`[•]`, 'gold'), color(`Estado      : Online!                        ║`, 'white'))
